@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663787594 source:c:\users\muril\onedrive\Área de trabalho\beecrowd\somasoma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
