@@ -1,0 +1,15 @@
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\obj\Debug\net6.0\Cronômetro.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\obj\Debug\net6.0\Cronômetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\obj\Debug\net6.0\Cronômetro.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\obj\Debug\net6.0\Cronômetro.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\obj\Debug\net6.0\Cronômetro.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\bin\Debug\net6.0\Cronômetro.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\bin\Debug\net6.0\Cronômetro.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\bin\Debug\net6.0\Cronômetro.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\bin\Debug\net6.0\Cronômetro.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\bin\Debug\net6.0\Cronômetro.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\obj\Debug\net6.0\Cronômetro.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\obj\Debug\net6.0\refint\Cronômetro.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\obj\Debug\net6.0\Cronômetro.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\obj\Debug\net6.0\Cronômetro.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Cronômetro\obj\Debug\net6.0\ref\Cronômetro.dll
