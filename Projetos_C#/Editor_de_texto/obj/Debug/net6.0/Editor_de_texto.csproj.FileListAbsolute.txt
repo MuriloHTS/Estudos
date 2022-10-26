@@ -1,0 +1,15 @@
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\bin\Debug\net6.0\Editor_de_texto.exe
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\bin\Debug\net6.0\Editor_de_texto.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\bin\Debug\net6.0\Editor_de_texto.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\bin\Debug\net6.0\Editor_de_texto.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\bin\Debug\net6.0\Editor_de_texto.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\obj\Debug\net6.0\Editor_de_texto.csproj.AssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\obj\Debug\net6.0\Editor_de_texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\obj\Debug\net6.0\Editor_de_texto.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\obj\Debug\net6.0\Editor_de_texto.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\obj\Debug\net6.0\Editor_de_texto.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\obj\Debug\net6.0\Editor_de_texto.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\obj\Debug\net6.0\refint\Editor_de_texto.dll
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\obj\Debug\net6.0\Editor_de_texto.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\obj\Debug\net6.0\Editor_de_texto.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Área de Trabalho\Estudos\Estudos\Projetos_C#\Editor_de_texto\obj\Debug\net6.0\ref\Editor_de_texto.dll
